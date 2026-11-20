@@ -28,5 +28,5 @@
     "2025-26": "https://www.premierleague.com/en/tables/premier-league/2025-26"
   },
   "scope": "Premier League only; no cup matches or invented underlying performance metrics.",
-  "local_snapshot": "76 Newcastle league fixture rows and derived 40-row league standings; full source JSON is linked and fetched by --refresh."
+  "local_snapshot": "The repository includes the 76 Newcastle league fixture rows and derived 40-row league standings; full source fixture JSON is linked and fetched by --refresh."
 }
