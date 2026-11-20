@@ -1,0 +1,169 @@
+{
+  "quality": {
+    "seasons": [
+      "2024-25",
+      "2025-26"
+    ],
+    "rows_by_season": {
+      "2024-25": 38,
+      "2025-26": 38
+    },
+    "unique_matchweek_by_season": {
+      "2024-25": 38,
+      "2025-26": 38
+    },
+    "score_arrays_newcastle": {
+      "2024-25": 0,
+      "2025-26": 4
+    },
+    "missing_half_time_values": {
+      "2024-25": 1,
+      "2025-26": 4
+    },
+    "missing_final_scores": 0,
+    "duplicate_matches": 0,
+    "league_teams_per_season": {
+      "2024-25": 20,
+      "2025-26": 20
+    },
+    "league_total_played": {
+      "2024-25": 760,
+      "2025-26": 760
+    }
+  },
+  "seasons": [
+    {
+      "season": "2024-25",
+      "played": 38,
+      "wins": 20,
+      "draws": 6,
+      "losses": 12,
+      "goals_for": 68,
+      "goals_against": 47,
+      "goal_difference": 21,
+      "points": 66,
+      "clean_sheets": 13,
+      "failed_to_score": 7,
+      "conceded_2_plus": 11,
+      "scored_2_plus": 19,
+      "win_rate_pct": 52.6,
+      "points_per_match": 1.737,
+      "goals_for_per_match": 1.789,
+      "goals_against_per_match": 1.237,
+      "position": 5
+    },
+    {
+      "season": "2025-26",
+      "played": 38,
+      "wins": 14,
+      "draws": 7,
+      "losses": 17,
+      "goals_for": 53,
+      "goals_against": 55,
+      "goal_difference": -2,
+      "points": 49,
+      "clean_sheets": 8,
+      "failed_to_score": 9,
+      "conceded_2_plus": 17,
+      "scored_2_plus": 17,
+      "win_rate_pct": 36.8,
+      "points_per_match": 1.289,
+      "goals_for_per_match": 1.395,
+      "goals_against_per_match": 1.447,
+      "position": 12
+    }
+  ],
+  "venue": [
+    {
+      "season": "2024-25",
+      "venue": "Away",
+      "played": 19,
+      "wins": 8,
+      "draws": 4,
+      "losses": 7,
+      "gf": 28,
+      "ga": 27,
+      "points": 28,
+      "clean_sheets": 5,
+      "points_per_match": 1.474
+    },
+    {
+      "season": "2024-25",
+      "venue": "Home",
+      "played": 19,
+      "wins": 12,
+      "draws": 2,
+      "losses": 5,
+      "gf": 40,
+      "ga": 20,
+      "points": 38,
+      "clean_sheets": 8,
+      "points_per_match": 2.0
+    },
+    {
+      "season": "2025-26",
+      "venue": "Away",
+      "played": 19,
+      "wins": 4,
+      "draws": 5,
+      "losses": 10,
+      "gf": 17,
+      "ga": 25,
+      "points": 17,
+      "clean_sheets": 5,
+      "points_per_match": 0.895
+    },
+    {
+      "season": "2025-26",
+      "venue": "Home",
+      "played": 19,
+      "wins": 10,
+      "draws": 2,
+      "losses": 7,
+      "gf": 36,
+      "ga": 30,
+      "points": 32,
+      "clean_sheets": 3,
+      "points_per_match": 1.684
+    }
+  ],
+  "half": [
+    {
+      "season": "2024-25",
+      "half": "First 19",
+      "played": 19,
+      "wins": 9,
+      "points": 32,
+      "gf": 32,
+      "ga": 21
+    },
+    {
+      "season": "2024-25",
+      "half": "Last 19",
+      "played": 19,
+      "wins": 11,
+      "points": 34,
+      "gf": 36,
+      "ga": 26
+    },
+    {
+      "season": "2025-26",
+      "half": "First 19",
+      "played": 19,
+      "wins": 7,
+      "points": 26,
+      "gf": 26,
+      "ga": 24
+    },
+    {
+      "season": "2025-26",
+      "half": "Last 19",
+      "played": 19,
+      "wins": 7,
+      "points": 23,
+      "gf": 27,
+      "ga": 31
+    }
+  ],
+  "shared_opponents": 16
+}

@@ -1,0 +1,77 @@
+season,matchweek,date,venue,opponent,goals_for,goals_against,half_time_for,half_time_against,raw_score_format,match_number,opponent_clean,result,points,goal_difference,clean_sheet,failed_to_score,conceded_2_plus,scored_2_plus,cumulative_points,cumulative_gd,rolling_ppg_5,calendar_month,month_label
+2024-25,1,2024-08-17,Home,Southampton FC,1,0,1.000,0.000,object,1,Southampton,W,3,1,1,0,0,0,3,1,,2024-08,Aug
+2024-25,2,2024-08-25,Away,AFC Bournemouth,1,1,0.000,1.000,object,2,AFC Bournemouth,D,1,0,0,0,0,0,4,1,,2024-08,Aug
+2024-25,3,2024-09-01,Home,Tottenham Hotspur FC,2,1,1.000,0.000,object,3,Tottenham Hotspur,W,3,1,0,0,0,1,7,2,,2024-09,Sep
+2024-25,4,2024-09-15,Away,Wolverhampton Wanderers FC,2,1,0.000,1.000,object,4,Wolverhampton Wanderers,W,3,1,0,0,0,1,10,3,,2024-09,Sep
+2024-25,5,2024-09-21,Away,Fulham FC,1,3,0.000,2.000,object,5,Fulham,L,0,-2,0,0,1,0,10,1,2.000,2024-09,Sep
+2024-25,6,2024-09-28,Home,Manchester City FC,1,1,0.000,1.000,object,6,Manchester City,D,1,0,0,0,0,0,11,1,1.600,2024-09,Sep
+2024-25,7,2024-10-05,Away,Everton FC,0,0,,,object,7,Everton,D,1,0,1,1,0,0,12,1,1.600,2024-10,Oct
+2024-25,8,2024-10-19,Home,Brighton & Hove Albion FC,0,1,0.000,1.000,object,8,Brighton & Hove Albion,L,0,-1,0,1,0,0,12,0,1.000,2024-10,Oct
+2024-25,9,2024-10-27,Away,Chelsea FC,1,2,1.000,1.000,object,9,Chelsea,L,0,-1,0,0,1,0,12,-1,0.400,2024-10,Oct
+2024-25,10,2024-11-02,Home,Arsenal FC,1,0,1.000,0.000,object,10,Arsenal,W,3,1,1,0,0,0,15,0,1.000,2024-11,Nov
+2024-25,11,2024-11-10,Away,Nottingham Forest FC,3,1,0.000,1.000,object,11,Nottingham Forest,W,3,2,0,0,0,1,18,2,1.400,2024-11,Nov
+2024-25,12,2024-11-25,Home,West Ham United FC,0,2,0.000,1.000,object,12,West Ham United,L,0,-2,0,1,1,0,18,0,1.200,2024-11,Nov
+2024-25,13,2024-11-30,Away,Crystal Palace FC,1,1,0.000,0.000,object,13,Crystal Palace,D,1,0,0,0,0,0,19,0,1.400,2024-11,Nov
+2024-25,14,2024-12-04,Home,Liverpool FC,3,3,1.000,0.000,object,14,Liverpool,D,1,0,0,0,1,1,20,0,1.600,2024-12,Dec
+2024-25,15,2024-12-07,Away,Brentford FC,2,4,2.000,2.000,object,15,Brentford,L,0,-2,0,0,1,1,20,-2,1.000,2024-12,Dec
+2024-25,16,2024-12-14,Home,Leicester City FC,4,0,1.000,0.000,object,16,Leicester City,W,3,4,1,0,0,1,23,2,1.000,2024-12,Dec
+2024-25,17,2024-12-21,Away,Ipswich Town FC,4,0,3.000,0.000,object,17,Ipswich Town,W,3,4,1,0,0,1,26,6,1.600,2024-12,Dec
+2024-25,18,2024-12-26,Home,Aston Villa FC,3,0,1.000,0.000,object,18,Aston Villa,W,3,3,1,0,0,1,29,9,2.000,2024-12,Dec
+2024-25,19,2024-12-30,Away,Manchester United FC,2,0,2.000,0.000,object,19,Manchester United,W,3,2,1,0,0,1,32,11,2.400,2024-12,Dec
+2024-25,20,2025-01-04,Away,Tottenham Hotspur FC,2,1,2.000,1.000,object,20,Tottenham Hotspur,W,3,1,0,0,0,1,35,12,3.000,2025-01,Jan
+2024-25,21,2025-01-15,Home,Wolverhampton Wanderers FC,3,0,1.000,0.000,object,21,Wolverhampton Wanderers,W,3,3,1,0,0,1,38,15,3.000,2025-01,Jan
+2024-25,22,2025-01-18,Home,AFC Bournemouth,1,4,1.000,2.000,object,22,AFC Bournemouth,L,0,-3,0,0,1,0,38,12,2.400,2025-01,Jan
+2024-25,23,2025-01-25,Away,Southampton FC,3,1,2.000,1.000,object,23,Southampton,W,3,2,0,0,0,1,41,14,2.400,2025-01,Jan
+2024-25,24,2025-02-01,Home,Fulham FC,1,2,1.000,0.000,object,24,Fulham,L,0,-1,0,0,1,0,41,13,1.800,2025-02,Feb
+2024-25,25,2025-02-15,Away,Manchester City FC,0,4,0.000,3.000,object,25,Manchester City,L,0,-4,0,1,1,0,41,9,1.200,2025-02,Feb
+2024-25,26,2025-02-23,Home,Nottingham Forest FC,4,3,4.000,1.000,object,26,Nottingham Forest,W,3,1,0,0,1,1,44,10,1.200,2025-02,Feb
+2024-25,27,2025-02-26,Away,Liverpool FC,0,2,0.000,1.000,object,27,Liverpool,L,0,-2,0,1,1,0,44,8,1.200,2025-02,Feb
+2024-25,28,2025-03-10,Away,West Ham United FC,1,0,0.000,0.000,object,28,West Ham United,W,3,1,1,0,0,0,47,9,1.200,2025-03,Mar
+2024-25,30,2025-04-02,Home,Brentford FC,2,1,1.000,0.000,object,29,Brentford,W,3,1,0,0,0,1,50,10,1.800,2025-04,Apr
+2024-25,31,2025-04-07,Away,Leicester City FC,3,0,3.000,0.000,object,30,Leicester City,W,3,3,1,0,0,1,53,13,2.400,2025-04,Apr
+2024-25,32,2025-04-13,Home,Manchester United FC,4,1,1.000,1.000,object,31,Manchester United,W,3,3,0,0,0,1,56,16,2.400,2025-04,Apr
+2024-25,29,2025-04-16,Home,Crystal Palace FC,5,0,4.000,0.000,object,32,Crystal Palace,W,3,5,1,0,0,1,59,21,3.000,2025-04,Apr
+2024-25,33,2025-04-19,Away,Aston Villa FC,1,4,1.000,1.000,object,33,Aston Villa,L,0,-3,0,0,1,0,59,18,2.400,2025-04,Apr
+2024-25,34,2025-04-26,Home,Ipswich Town FC,3,0,1.000,0.000,object,34,Ipswich Town,W,3,3,1,0,0,1,62,21,2.400,2025-04,Apr
+2024-25,35,2025-05-04,Away,Brighton & Hove Albion FC,1,1,0.000,1.000,object,35,Brighton & Hove Albion,D,1,0,0,0,0,0,63,21,2.000,2025-05,May
+2024-25,36,2025-05-11,Home,Chelsea FC,2,0,1.000,0.000,object,36,Chelsea,W,3,2,1,0,0,1,66,23,2.000,2025-05,May
+2024-25,37,2025-05-18,Away,Arsenal FC,0,1,0.000,0.000,object,37,Arsenal,L,0,-1,0,1,0,0,66,22,1.400,2025-05,May
+2024-25,38,2025-05-25,Home,Everton FC,0,1,0.000,0.000,object,38,Everton,L,0,-1,0,1,0,0,66,21,1.400,2025-05,May
+2025-26,1,2025-08-16,Away,Aston Villa FC,0,0,,,array,1,Aston Villa,D,1,0,1,1,0,0,1,0,,2025-08,Aug
+2025-26,2,2025-08-25,Home,Liverpool FC,2,3,0.000,1.000,object,2,Liverpool,L,0,-1,0,0,1,1,1,-1,,2025-08,Aug
+2025-26,3,2025-08-30,Away,Leeds United FC,0,0,,,array,3,Leeds United,D,1,0,1,1,0,0,2,-1,,2025-08,Aug
+2025-26,4,2025-09-13,Home,Wolverhampton Wanderers FC,1,0,1.000,0.000,object,4,Wolverhampton Wanderers,W,3,1,1,0,0,0,5,0,,2025-09,Sep
+2025-26,5,2025-09-21,Away,AFC Bournemouth,0,0,,,array,5,AFC Bournemouth,D,1,0,1,1,0,0,6,0,1.200,2025-09,Sep
+2025-26,6,2025-09-28,Home,Arsenal FC,1,2,1.000,0.000,object,6,Arsenal,L,0,-1,0,0,1,0,6,-1,1.000,2025-09,Sep
+2025-26,7,2025-10-05,Home,Nottingham Forest FC,2,0,0.000,0.000,object,7,Nottingham Forest,W,3,2,1,0,0,1,9,1,1.600,2025-10,Oct
+2025-26,8,2025-10-18,Away,Brighton & Hove Albion FC,1,2,0.000,1.000,object,8,Brighton & Hove Albion,L,0,-1,0,0,1,0,9,0,1.400,2025-10,Oct
+2025-26,9,2025-10-25,Home,Fulham FC,2,1,1.000,0.000,object,9,Fulham,W,3,1,0,0,0,1,12,1,1.400,2025-10,Oct
+2025-26,10,2025-11-02,Away,West Ham United FC,1,3,1.000,2.000,object,10,West Ham United,L,0,-2,0,0,1,0,12,-1,1.200,2025-11,Nov
+2025-26,11,2025-11-09,Away,Brentford FC,1,3,1.000,0.000,object,11,Brentford,L,0,-2,0,0,1,0,12,-3,1.200,2025-11,Nov
+2025-26,12,2025-11-22,Home,Manchester City FC,2,1,0.000,0.000,object,12,Manchester City,W,3,1,0,0,0,1,15,-2,1.200,2025-11,Nov
+2025-26,13,2025-11-29,Away,Everton FC,4,1,3.000,0.000,object,13,Everton,W,3,3,0,0,0,1,18,1,1.800,2025-11,Nov
+2025-26,14,2025-12-02,Home,Tottenham Hotspur FC,2,2,0.000,0.000,object,14,Tottenham Hotspur,D,1,0,0,0,1,1,19,1,1.400,2025-12,Dec
+2025-26,15,2025-12-06,Home,Burnley FC,2,1,2.000,0.000,object,15,Burnley,W,3,1,0,0,0,1,22,2,2.000,2025-12,Dec
+2025-26,16,2025-12-14,Away,Sunderland AFC,0,1,0.000,0.000,object,16,Sunderland AFC,L,0,-1,0,1,0,0,22,1,2.000,2025-12,Dec
+2025-26,17,2025-12-20,Home,Chelsea FC,2,2,2.000,0.000,object,17,Chelsea,D,1,0,0,0,1,1,23,1,1.600,2025-12,Dec
+2025-26,18,2025-12-26,Away,Manchester United FC,0,1,0.000,1.000,object,18,Manchester United,L,0,-1,0,1,0,0,23,0,1.000,2025-12,Dec
+2025-26,19,2025-12-30,Away,Burnley FC,3,1,2.000,1.000,object,19,Burnley,W,3,2,0,0,0,1,26,2,1.400,2025-12,Dec
+2025-26,20,2026-01-04,Home,Crystal Palace FC,2,0,0.000,0.000,object,20,Crystal Palace,W,3,2,1,0,0,1,29,4,1.400,2026-01,Jan
+2025-26,21,2026-01-07,Home,Leeds United FC,4,3,1.000,2.000,object,21,Leeds United,W,3,1,0,0,1,1,32,5,2.000,2026-01,Jan
+2025-26,22,2026-01-18,Away,Wolverhampton Wanderers FC,0,0,,,array,22,Wolverhampton Wanderers,D,1,0,1,1,0,0,33,5,2.000,2026-01,Jan
+2025-26,23,2026-01-25,Home,Aston Villa FC,0,2,0.000,1.000,object,23,Aston Villa,L,0,-2,0,1,1,0,33,3,2.000,2026-01,Jan
+2025-26,24,2026-01-31,Away,Liverpool FC,1,4,1.000,2.000,object,24,Liverpool,L,0,-3,0,0,1,0,33,0,1.400,2026-01,Jan
+2025-26,25,2026-02-07,Home,Brentford FC,2,3,1.000,2.000,object,25,Brentford,L,0,-1,0,0,1,1,33,-1,0.800,2026-02,Feb
+2025-26,26,2026-02-10,Away,Tottenham Hotspur FC,2,1,1.000,0.000,object,26,Tottenham Hotspur,W,3,1,0,0,0,1,36,0,0.800,2026-02,Feb
+2025-26,27,2026-02-21,Away,Manchester City FC,1,2,1.000,2.000,object,27,Manchester City,L,0,-1,0,0,1,0,36,-1,0.600,2026-02,Feb
+2025-26,28,2026-02-28,Home,Everton FC,2,3,1.000,2.000,object,28,Everton,L,0,-1,0,0,1,1,36,-2,0.600,2026-02,Feb
+2025-26,29,2026-03-04,Home,Manchester United FC,2,1,1.000,1.000,object,29,Manchester United,W,3,1,0,0,0,1,39,-1,1.200,2026-03,Mar
+2025-26,30,2026-03-14,Away,Chelsea FC,1,0,1.000,0.000,object,30,Chelsea,W,3,1,1,0,0,0,42,0,1.800,2026-03,Mar
+2025-26,31,2026-03-22,Home,Sunderland AFC,1,2,1.000,0.000,object,31,Sunderland AFC,L,0,-1,0,0,1,0,42,-1,1.200,2026-03,Mar
+2025-26,32,2026-04-12,Away,Crystal Palace FC,1,2,1.000,0.000,object,32,Crystal Palace,L,0,-1,0,0,1,0,42,-2,1.200,2026-04,Apr
+2025-26,33,2026-04-18,Home,AFC Bournemouth,1,2,0.000,1.000,object,33,AFC Bournemouth,L,0,-1,0,0,1,0,42,-3,1.200,2026-04,Apr
+2025-26,34,2026-04-25,Away,Arsenal FC,0,1,0.000,1.000,object,34,Arsenal,L,0,-1,0,1,0,0,42,-4,0.600,2026-04,Apr
+2025-26,35,2026-05-02,Home,Brighton & Hove Albion FC,3,1,2.000,0.000,object,35,Brighton & Hove Albion,W,3,2,0,0,0,1,45,-2,0.600,2026-05,May
+2025-26,36,2026-05-10,Away,Nottingham Forest FC,1,1,0.000,0.000,object,36,Nottingham Forest,D,1,0,0,0,0,0,46,-2,0.800,2026-05,May
+2025-26,37,2026-05-17,Home,West Ham United FC,3,1,2.000,0.000,object,37,West Ham United,W,3,2,0,0,0,1,49,0,1.400,2026-05,May
+2025-26,38,2026-05-24,Away,Fulham FC,0,2,0.000,1.000,object,38,Fulham,L,0,-2,0,1,1,0,49,-2,1.400,2026-05,May

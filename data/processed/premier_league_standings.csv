@@ -1,0 +1,41 @@
+season,position,team,played,wins,draws,losses,goals_for,goals_against,goal_difference,points
+2024-25,1,Liverpool FC,38,25,9,4,86,41,45,84
+2024-25,2,Arsenal FC,38,20,14,4,69,34,35,74
+2024-25,3,Manchester City FC,38,21,8,9,72,44,28,71
+2024-25,4,Chelsea FC,38,20,9,9,64,43,21,69
+2024-25,5,Newcastle United FC,38,20,6,12,68,47,21,66
+2024-25,6,Aston Villa FC,38,19,9,10,58,51,7,66
+2024-25,7,Nottingham Forest FC,38,19,8,11,58,46,12,65
+2024-25,8,Brighton & Hove Albion FC,38,16,13,9,66,59,7,61
+2024-25,9,AFC Bournemouth,38,15,11,12,58,46,12,56
+2024-25,10,Brentford FC,38,16,8,14,66,57,9,56
+2024-25,11,Fulham FC,38,15,9,14,54,54,0,54
+2024-25,12,Crystal Palace FC,38,13,14,11,51,51,0,53
+2024-25,13,Everton FC,38,11,15,12,42,44,-2,48
+2024-25,14,West Ham United FC,38,11,10,17,46,62,-16,43
+2024-25,15,Manchester United FC,38,11,9,18,44,54,-10,42
+2024-25,16,Wolverhampton Wanderers FC,38,12,6,20,54,69,-15,42
+2024-25,17,Tottenham Hotspur FC,38,11,5,22,64,65,-1,38
+2024-25,18,Leicester City FC,38,6,7,25,33,80,-47,25
+2024-25,19,Ipswich Town FC,38,4,10,24,36,82,-46,22
+2024-25,20,Southampton FC,38,2,6,30,26,86,-60,12
+2025-26,1,Arsenal FC,38,26,7,5,71,27,44,85
+2025-26,2,Manchester City FC,38,23,9,6,77,35,42,78
+2025-26,3,Manchester United FC,38,20,11,7,69,50,19,71
+2025-26,4,Aston Villa FC,38,19,8,11,56,49,7,65
+2025-26,5,Liverpool FC,38,17,9,12,63,53,10,60
+2025-26,6,AFC Bournemouth,38,13,18,7,58,54,4,57
+2025-26,7,Sunderland AFC,38,14,12,12,42,48,-6,54
+2025-26,8,Brighton & Hove Albion FC,38,14,11,13,52,46,6,53
+2025-26,9,Brentford FC,38,14,11,13,55,52,3,53
+2025-26,10,Chelsea FC,38,14,10,14,58,52,6,52
+2025-26,11,Fulham FC,38,15,7,16,47,51,-4,52
+2025-26,12,Newcastle United FC,38,14,7,17,53,55,-2,49
+2025-26,13,Everton FC,38,13,10,15,47,50,-3,49
+2025-26,14,Leeds United FC,38,11,14,13,49,56,-7,47
+2025-26,15,Crystal Palace FC,38,11,12,15,41,51,-10,45
+2025-26,16,Nottingham Forest FC,38,11,11,16,48,51,-3,44
+2025-26,17,Tottenham Hotspur FC,38,10,11,17,48,57,-9,41
+2025-26,18,West Ham United FC,38,10,9,19,46,65,-19,39
+2025-26,19,Burnley FC,38,4,10,24,38,75,-37,22
+2025-26,20,Wolverhampton Wanderers FC,38,3,11,24,27,68,-41,20
