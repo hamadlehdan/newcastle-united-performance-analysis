@@ -1,0 +1,32 @@
+{
+  "dataset": "OpenFootball English Premier League results (football.json)",
+  "repository": "https://github.com/openfootball/football.json",
+  "license": "CC0-1.0",
+  "checked_on": "2026-11-20",
+  "source_commit": "e6744429ee395bc86f247348c6184bb08d4eb361",
+  "source_commit_date_utc": "2026-09-22T09:33:49Z",
+  "source_files": [
+    {
+      "season": "2024-25",
+      "path": "2024-25/en.1.json",
+      "git_blob_sha": "504f2e732fbc3c9caeb98e4382b13b094453b840",
+      "matches": 380,
+      "newcastle_matches": 38
+    },
+    {
+      "season": "2025-26",
+      "path": "2025-26/en.1.json",
+      "git_blob_sha": "41e223ee5954e6b634beb4bc70d7188b3183c665",
+      "matches": 380,
+      "newcastle_matches": 38,
+      "final_score_object_records": 353,
+      "final_score_array_records": 27
+    }
+  ],
+  "external_validation": {
+    "2024-25": "https://www.premierleague.com/en/tables/premier-league/2024-25",
+    "2025-26": "https://www.premierleague.com/en/tables/premier-league/2025-26"
+  },
+  "scope": "Premier League only; no cup matches or invented underlying performance metrics.",
+  "local_snapshot": "76 Newcastle league fixture rows and derived 40-row league standings; full source JSON is linked and fetched by --refresh."
+}

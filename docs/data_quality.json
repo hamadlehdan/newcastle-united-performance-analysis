@@ -1,0 +1,32 @@
+{
+  "seasons": [
+    "2024-25",
+    "2025-26"
+  ],
+  "rows_by_season": {
+    "2024-25": 38,
+    "2025-26": 38
+  },
+  "unique_matchweek_by_season": {
+    "2024-25": 38,
+    "2025-26": 38
+  },
+  "score_arrays_newcastle": {
+    "2024-25": 0,
+    "2025-26": 4
+  },
+  "missing_half_time_values": {
+    "2024-25": 1,
+    "2025-26": 4
+  },
+  "missing_final_scores": 0,
+  "duplicate_matches": 0,
+  "league_teams_per_season": {
+    "2024-25": 20,
+    "2025-26": 20
+  },
+  "league_total_played": {
+    "2024-25": 760,
+    "2025-26": 760
+  }
+}
